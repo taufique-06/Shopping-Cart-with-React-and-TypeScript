@@ -1,1 +1,0 @@
-# Shopping-Cart-with-React-and-TypeScript
